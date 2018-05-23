@@ -1,0 +1,12 @@
+body{
+	margin: opx;
+}
+.imagen{
+	box-sizing: border-box;
+	max-width: : 150px;
+	width: 100%;
+}
+.header{
+	background-image: url("./images/bg.jpeg");
+	background-repeat: no-repeat;
+}
